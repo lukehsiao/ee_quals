@@ -86,3 +86,4 @@ Exploiting these rules, one trick is to put five professors from the same area i
 * [Alex Oz's Quals Guide](http://stanford.edu/~alexoz/quals.html)
 * [Archive of old Quals Comments](http://www.awadallah.com/QualComments.txt)
 * [Benjamin Tee's Quals Guide](http://benjamintee.com/ee-quals/)
+* [Let's Fast Forward](http://letsfastforward.blogspot.com/2012/03/stanford-quals.html)
