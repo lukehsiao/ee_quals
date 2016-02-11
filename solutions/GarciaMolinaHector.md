@@ -9,6 +9,7 @@
   - [Binary Search](#binary-search)
     - [Original Question](#original-question)
     - [Extra Credit](#extra-credit)
+
 <!-- /TOC -->
 
 ## EE Quals Question 2007
