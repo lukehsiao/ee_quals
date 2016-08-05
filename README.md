@@ -1,4 +1,5 @@
 # Stanford EE Quals
+
 <!--- Saving the space below for any badges: -->
 [![Join the chat at https://gitter.im/lukehsiao/ee_quals](https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=plastic)](https://gitter.im/lukehsiao/ee_quals?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Stories in Ready](https://badge.waffle.io/lukehsiao/ee_quals.png?label=ready&title=Ready)](https://waffle.io/lukehsiao/ee_quals)
@@ -8,17 +9,20 @@ A repository for notes and other study resources for the Stanford Electrical
 Engineering qualification exam.
 
 ## Past Exams
+
 An archive of PDFs of quals questions from past years, provided by Stanford.
-Note that the ```past-exams/by-prof-src/``` folder contains the pages that were split from
+Note that the `past-exams/by-prof-src/` folder contains the pages that were split from
 the exams-by-year PDFs and joined. These are provided to make adding later
 questions easier.
 
 ## Solutions
+
 A collection of solutions and clarification points for questions that we worked. As well as some general study notes.
 
 ## General Strategies
 
 ### Choosing Professors
+
 The standard instructions have not changed. You select 20 professors and get 4 from the first group, 3 from the second, 2 from the third, and 1 from the last. You are also told that you will not get more than 4 professors from the same quals area.
 
 Exploiting these rules, one trick is to put five professors from the same area in your first group. You will get four of these five. The sixth professor from the same area can be completely eliminated by placing him or her in your second group, since you can't get more than 4 from one area. This means you'll get 3 of 4 professors in your 2nd group instead of 3 of 5. You can propagate this idea.
@@ -26,7 +30,7 @@ Exploiting these rules, one trick is to put five professors from the same area i
 ## Examiners for 2015
 
 | NAME                 | AREA                                   |
-|:---------------------|:---------------------------------------|
+| :------------------- | :------------------------------------- |
 | Amin Arbabian        | Electronic Circuits                    |
 | Robert Dutton        | Electronic Circuits                    |
 | Gregory Kovacs       | Electronic Circuits                    |
@@ -80,10 +84,18 @@ Exploiting these rules, one trick is to put five professors from the same area i
 | H.-S. Philip Wong    | Electronic Devices                     |
 | James Harris         | Electronic Devices                     |
 
+## Contributing
+
+To future students, please feel free to fork and pull-request updates into this repo!
+Most of our solutions/notes are just in markdown format.
+If you need to include images, just drop them in the `img` folder and use relative links to them.
+If you have notes that must be written by hand (e.g. drawings or math equations), feel free to either scan and include them as images, or just upload PDFs.
+
 ## Other resources on the web
-* [Wu's EE Quals Guide](https://www.ocf.berkeley.edu/~wwu/quals/advice.shtml)
-* [John Mu's Quals Guide](http://umnhoj.com/quals_guide.shtml)
-* [Alex Oz's Quals Guide](http://stanford.edu/~alexoz/quals.html)
-* [Archive of old Quals Comments](http://www.awadallah.com/QualComments.txt)
-* [Benjamin Tee's Quals Guide](http://benjamintee.com/ee-quals/)
-* [Let's Fast Forward](http://letsfastforward.blogspot.com/2012/03/stanford-quals.html)
+
+-   [Wu's EE Quals Guide](https://www.ocf.berkeley.edu/~wwu/quals/advice.shtml)
+-   [John Mu's Quals Guide](http://umnhoj.com/quals_guide.shtml)
+-   [Alex Oz's Quals Guide](http://stanford.edu/~alexoz/quals.html)
+-   [Archive of old Quals Comments](http://www.awadallah.com/QualComments.txt) (don't worry, it's not as bad as these make it sound)
+-   [Benjamin Tee's Quals Guide](http://benjamintee.com/ee-quals/)
+-   [Let's Fast Forward](http://letsfastforward.blogspot.com/2012/03/stanford-quals.html)

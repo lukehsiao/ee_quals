@@ -204,7 +204,7 @@ A Full, 1-bit Adder:
 ![full-adder](http://robey.lag.net/images/full-adder-simple.png)
 
 ## Transmission Gates & Degraded Outputs
-![trans-gate](http://www.zigwap.com/incl/assets/digital/gates/transmission_gate.png)
+![trans-gate](https://upload.wikimedia.org/wikipedia/commons/e/e5/CMOS_transmission_gate.PNG)
 ![degraded-out](../img/degraded_outputs.png)
 
 ## Keyboards:
