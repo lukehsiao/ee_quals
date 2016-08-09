@@ -6,7 +6,7 @@
 <!--- End space for badges. -->
 
 A repository for notes and other study resources for the Stanford Electrical
-Engineering qualification exam.
+Engineering qualification exam. To new students, don't stress to much. Quals has changed quite a bit in the past couple of years, and pass rates are much higher than they were before the grad school applicants were split into separate EE/PhD tracks. 
 
 ## Past Exams
 
