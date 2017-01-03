@@ -31,7 +31,7 @@ Exploiting these rules, one trick is to put five professors from the same area i
 
 ## Contributing
 
-To future students, you're invited to fork and pull-request updates into this repo! 
+To future students, if you found this repository helpful, please add to it by forking and opening PRs with updates. 
 For example, exams by year and by professor will need to be updated each year.
 Most of our solutions/notes are just in markdown format.
 If you need to include images, just drop them in the `img` folder and use relative links to them.
