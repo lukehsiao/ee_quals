@@ -23,75 +23,21 @@ A collection of solutions and clarification points for questions that we worked.
 
 ### Choosing Professors
 
+*Note: these were last updated for the 2016 quals. Policies and procedures may have changed since this section was written. If so, please contribute by submitting a PR with updated strategies here.*
+
 The standard instructions have not changed. You select 20 professors and get 4 from the first group, 3 from the second, 2 from the third, and 1 from the last. You are also told that you will not get more than 4 professors from the same quals area.
 
 Exploiting these rules, one trick is to put five professors from the same area in your first group. You will get four of these five. The sixth professor from the same area can be completely eliminated by placing him or her in your second group, since you can't get more than 4 from one area. This means you'll get 3 of 4 professors in your 2nd group instead of 3 of 5. You can propagate this idea.
 
-## Examiners for 2015
-
-| NAME                 | AREA                                   |
-| :------------------- | :------------------------------------- |
-| Amin Arbabian        | Electronic Circuits                    |
-| Robert Dutton        | Electronic Circuits                    |
-| Gregory Kovacs       | Electronic Circuits                    |
-| Thomas Lee           | Electronic Circuits                    |
-| Boris Murmann        | Electronic Circuits                    |
-| Juan Rivas Davila    | Electronic Circuits                    |
-| Simon Wong           | Electronic Circuits                    |
-| Nicholas Bambos      | Signals                                |
-| John Duchi           | Signals                                |
-| John Gill            | Signals                                |
-| Bernd Girod          | Signals                                |
-| Andrea Montanari     | Signals                                |
-| Ayfer Ozgur Aydin    | Signals                                |
-| Balaji Prabhakar     | Signals                                |
-| Tsachy Weissman      | Signals                                |
-| Gordon Wetzstein     | Signals                                |
-| Stephen Boyd         | Systems                                |
-| Sanjay Lall          | Systems                                |
-| Dwight Nishimura     | Systems                                |
-| Brad Osgood          | Systems                                |
-| John Pauly           | Systems                                |
-| David Tse            | Systems                                |
-| Howard Zebker        | Systems                                |
-| Dan Boneh            | Computer Systems Software              |
-| Dawson Engler        | Computer Systems Software              |
-| Hector Garcia-Molina | Computer Systems Software              |
-| Patrick Hanrahan     | Computer Systems Software              |
-| Sachin Katti         | Computer Systems Software              |
-| Philip Levis         | Computer Systems Software              |
-| Audrey Bowden        | Engineering Physics                    |
-| Shanhui Fan          | Engineering Physics                    |
-| Lambertus Hesselink  | Engineering Physics                    |
-| David Miller         | Engineering Physics                    |
-| Jelena Vuckovic      | Engineering Physics                    |
-| Shan Wang            | Engineering Physics                    |
-| Jonathan Fan         | Electromagnetics                       |
-| Antony Fraser-Smith  | Electromagnetics                       |
-| Ada Poon             | Electromagnetics                       |
-| Joseph Kahn          | Electromagnetics                       |
-| Ivan Linscott        | Electromagnetics                       |
-| Mark Horowitz        | Computer Architecture and Logic Design |
-| Nick McKeown         | Computer Architecture and Logic Design |
-| Subhasish Mitra      | Computer Architecture and Logic Design |
-| Oyekunle Olukotun    | Computer Architecture and Logic Design |
-| Mendel Rosenblum     | Computer Architecture and Logic Design |
-| Fouad Tobagi         | Computer Architecture and Logic Design |
-| Roger Howe           | Electronic Devices                     |
-| Fabian Pease         | Electronic Devices                     |
-| Piero Pianetta       | Electronic Devices                     |
-| Eric Pop             | Electronic Devices                     |
-| H.-S. Philip Wong    | Electronic Devices                     |
-| James Harris         | Electronic Devices                     |
-
 ## Contributing
 
-To future students, please feel free to fork and pull-request updates into this repo!
+To future students, you're invited to fork and pull-request updates into this repo! 
+For example, exams by year and by professor will need to be updated each year.
 Most of our solutions/notes are just in markdown format.
 If you need to include images, just drop them in the `img` folder and use relative links to them.
 If you have notes that must be written by hand (e.g. drawings or math equations), feel free to either scan and include them as images, or just upload PDFs.
 
-## Other resources on the web
+## Other related links on the web
 
 -   [Wu's EE Quals Guide](https://www.ocf.berkeley.edu/~wwu/quals/advice.shtml)
 -   [John Mu's Quals Guide](http://umnhoj.com/quals_guide.shtml)
