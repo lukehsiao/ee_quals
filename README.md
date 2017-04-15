@@ -31,9 +31,9 @@ Exploiting these rules, one trick is to put five professors from the same area i
 
 ## Contributing
 
-To future students, if you found this repository helpful, please add to it by forking and opening PRs with updates. 
+To future students, if you found this repository helpful, please add to it by making Pull Requests with updates. 
 For example, exams by year and by professor will need to be updated each year.
-Most of our solutions/notes are just in markdown format.
+Most of our solutions/notes are just in markdown format, and are easily expanded on.
 If you need to include images, just drop them in the `img` folder and use relative links to them.
 If you have notes that must be written by hand (e.g. drawings or math equations), feel free to either scan and include them as images, or just upload PDFs.
 
