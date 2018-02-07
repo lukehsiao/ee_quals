@@ -3,7 +3,8 @@
 <!--- Saving the space below for any badges: -->
 
 [![Join the chat at https://gitter.im/lukehsiao/ee_quals](https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=flat)](https://gitter.im/lukehsiao/ee_quals?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Stories in Ready](https://badge.waffle.io/lukehsiao/ee_quals.png?label=ready&title=Ready)](https://waffle.io/lukehsiao/ee_quals)
+[![GitHub issues](https://img.shields.io/github/issues/lukehsiao/ee_quals.svg)](https://github.com/lukehsiao/ee_quals/issues)
+[![GitHub stars](https://img.shields.io/github/stars/lukehsiao/ee_quals.svg)](https://github.com/lukehsiao/ee_quals/stargazers)
 
 <!--- End space for badges. -->
 
