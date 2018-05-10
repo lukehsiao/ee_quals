@@ -43,7 +43,6 @@ If you have notes that must be written by hand (e.g. drawings or math equations)
 | Name                                                                                                                    | Description                                             |
 | :---------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------ |
 | [PhD Qualifying Exam](http://ee.stanford.edu/academics/graduate-degree-progress/quals)                                  | Stanford's Homepage for the Quals                       |
-| [Alex Oz's Quals Guide](http://stanford.edu/~alexoz/quals.html)                                                         | Notebooks/solutions for Circuits, Devices, and Systems. |
 | [Elias Wang's Blog](http://web.stanford.edu/~eliwang/ee-quals.html)                                                     | Blog post from a 2017 quals taker.                      |
 | [Let's Fast Forward](http://letsfastforward.blogspot.com/2012/03/stanford-quals.html)                                   | Blog post with some general tips from 2012.             |
 | [Robert Chen's Quals Guide](https://sites.google.com/site/stanfordrobochen/quals)                                       | Detailed general tips from 2010.                        |
