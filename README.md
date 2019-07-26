@@ -2,11 +2,12 @@
 
 <!--- Saving the space below for any badges: -->
 
-[![Join the chat at https://gitter.im/lukehsiao/ee_quals](https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=flat)](https://gitter.im/lukehsiao/ee_quals?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![GitHub issues](https://img.shields.io/github/issues/lukehsiao/ee_quals.svg)](https://github.com/lukehsiao/ee_quals/issues)
 [![GitHub stars](https://img.shields.io/github/stars/lukehsiao/ee_quals.svg)](https://github.com/lukehsiao/ee_quals/stargazers)
 
 <!--- End space for badges. -->
+
+**:warning: Stanford has changed to an [entirely committee qual format](https://ee.stanford.edu/academics/graduate-degree-progress/quals). This repo will not be updated.**
 
 A repository for notes and other study resources for the Stanford Electrical
 Engineering qualification exam. To new students, don't stress too much. Quals has changed quite a bit in the past couple of years, and pass rates are much higher than they were before grad school applicants were split into separate MS/PhD tracks.
