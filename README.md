@@ -2,22 +2,21 @@
 
 <!--- Saving the space below for any badges: -->
 
-[![GitHub issues](https://img.shields.io/github/issues/lukehsiao/ee_quals.svg)](https://github.com/lukehsiao/ee_quals/issues)
-[![GitHub stars](https://img.shields.io/github/stars/lukehsiao/ee_quals.svg)](https://github.com/lukehsiao/ee_quals/stargazers)
+![GitHub repo size](https://img.shields.io/github/repo-size/lukehsiao/ee_quals)
 
 <!--- End space for badges. -->
 
-**:warning: Stanford has changed to an [entirely committee qual format](https://ee.stanford.edu/academics/graduate-degree-progress/quals). This repo will not be updated.**
+**:warning: Stanford has changed to an [entirely committee qual format](https://ee.stanford.edu/academics/graduate-degree-progress/quals). This repo will not be updated. :warning:**
 
-A repository for notes and other study resources for the Stanford Electrical
-Engineering qualification exam. To new students, don't stress too much. Quals has changed quite a bit in the past couple of years, and pass rates are much higher than they were before grad school applicants were split into separate MS/PhD tracks.
+A repository for notes and other study resources for the Stanford Electrical Engineering qualification exam.
+To new students, don't stress too much.
+Quals has changed quite a bit in the past couple of years, and pass rates are much higher than they were before grad school applicants were split into separate MS/PhD tracks.
 
 ## Past Exams
 
 An archive of PDFs of quals questions from past years, provided by Stanford.
-Note that the `past-exams/by-prof-src/` folder contains the pages that were split from
-the exams-by-year PDFs and joined. These are provided to make adding later
-questions easier.
+Note that the `past-exams/by-prof-src/` folder contains the pages that were split from the exams-by-year PDFs and joined.
+These are provided to make adding later questions easier.
 
 A collection of solutions and clarification points for questions that we worked. As well as some general study notes.
 
@@ -27,9 +26,15 @@ A collection of solutions and clarification points for questions that we worked.
 
 _Note: these were last updated for the 2016 quals. Policies and procedures may have changed since this section was written. If so, please contribute by submitting a PR with updated strategies here._
 
-The standard instructions have not changed. You select 20 professors and get 4 from the first group, 3 from the second, 2 from the third, and 1 from the last. You are also told that you will not get more than 4 professors from the same quals area.
+The standard instructions have not changed.
+You select 20 professors and get 4 from the first group, 3 from the second, 2 from the third, and 1 from the last.
+You are also told that you will not get more than 4 professors from the same quals area.
 
-Exploiting these rules, one trick is to put five professors from the same area in your first group. You will get four of these five. The sixth professor from the same area can be completely eliminated by placing him or her in your second group, since you can't get more than 4 from one area. This means you'll get 3 of 4 professors in your 2nd group instead of 3 of 5. You can propagate this idea.
+Exploiting these rules, one trick is to put five professors from the same area in your first group.
+You will get four of these five.
+The sixth professor from the same area can be completely eliminated by placing him or her in your second group, since you can't get more than 4 from one area.
+This means you'll get 3 of 4 professors in your 2nd group instead of 3 of 5.
+You can propagate this idea.
 
 ## Contributing
 
