@@ -24,7 +24,7 @@ A collection of solutions and clarification points for questions that we worked.
 
 ### Choosing Professors
 
-_Note: these were last updated for the 2016 quals. Policies and procedures may have changed since this section was written. If so, please contribute by submitting a PR with updated strategies here._
+_Note: these were last updated for the 2016 quals. Policies and procedures have changed since this section was written._
 
 The standard instructions have not changed.
 You select 20 professors and get 4 from the first group, 3 from the second, 2 from the third, and 1 from the last.
