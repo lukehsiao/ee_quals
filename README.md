@@ -49,5 +49,5 @@ If you have notes that must be written by hand (e.g. drawings or math equations)
 | [Robert Chen's Quals Guide](https://sites.google.com/site/stanfordrobochen/quals)                                       | Detailed general tips from 2010.                        |
 | [William Wu's EE Quals Guide](https://www.ocf.berkeley.edu/~wwu/quals/advice.shtml)                                     | General tips and tricks from 2005.                      |
 | [John Mu's Quals Guide](http://umnhoj.com/quals_guide/)                                                                 | Some notes for signals and systems and quals logistics. |
-| [EE Ph.D. Qualifying Exam Statistics](http://web.archive.org/web/20130704041620/http://ee.stanford.edu/phd/quals/stats) | Archive of states from 1998-2012                        |
+| [EE Ph.D. Qualifying Exam Statistics](http://web.archive.org/web/20130704041620/http://ee.stanford.edu/phd/quals/stats) | Archive of stats from 1998-2012                         |
 | [Archive of old Quals Comments](http://www.awadallah.com/QualComments.txt)                                              | Not really relevant, but kind of entertaining to read.  |
